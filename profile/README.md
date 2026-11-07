@@ -50,8 +50,12 @@ Für eine gehostete Installation kann der Betreiber eine eigene MongoDB bereitst
 
 ## Lizenz
 
-Eigene LEAF-Projektbeiträge stehen unter der **MIT-Lizenz**. Diese erlaubt Nutzung, Änderungen und Weitergabe, einschließlich kommerzieller Nutzung und Weiterverkauf. Copyright- und Lizenzhinweis müssen erhalten bleiben. Die Software wird ohne Gewährleistung bereitgestellt; der Haftungsausschluss gilt nur im gesetzlich zulässigen Umfang. Die [vollständige MIT-Lizenz](https://github.com/additive-production-planning/.github/blob/main/LICENSE) ist Bestandteil dieser Vorstellung.
+LEAF darf kostenfrei für Forschung, private und kommerzielle Zwecke genutzt werden. Eigene Beiträge zu Oberfläche, Anwendungsbackend und Dokumentation stehen unter der **MIT-Lizenz**, soweit die Rechteinhaber diese Rechte einräumen können. Copyright- und Lizenzhinweise müssen erhalten bleiben. Die [MIT-Lizenz dieser öffentlichen Dokumentation](https://github.com/additive-production-planning/.github/blob/main/LICENSE) gibt keine Rechte an privat betriebenen Berechnungsdiensten.
+
+Der zentrale Berechnungsdienst und neue interne RL-/LLM-Bestandteile bleiben **proprietär** und sind von der MIT-Freigabe ausgenommen. Die kostenfreie Anwendung gewährt keinen Anspruch auf deren Quellcode oder Modelle. Zuvor wirksam eingeräumte Rechte bleiben bestehen. Näheres beschreibt der [Lizenzumfang](https://github.com/additive-production-planning/.github/blob/main/LICENSE-SCOPE.md). Die Software wird ohne Gewährleistung im gesetzlich zulässigen Umfang bereitgestellt; zwingende gesetzliche Haftung bleibt unberührt.
 
 Drittanbieterbestandteile behalten ihre eigenen Lizenzbedingungen und werden nicht umgelizenziert.
+
+Die [Nutzungsbedingungen des zentralen Berechnungsdienstes](https://github.com/additive-production-planning/.github/blob/main/CALCULATION-SERVICE-LICENSE.txt) sind ebenfalls öffentlich einsehbar. Sie enthalten die Erlaubnis zur kostenfreien Anwendungsnutzung und die Haftungsregelungen, ohne internen Quellcode oder Modelle freizugeben.
 
 Diese öffentliche Seite beschreibt Funktionsweise und Lizenz. Quellcode, interne Betriebsanleitungen, Zugangsdaten und Produktionsdaten bleiben privat.

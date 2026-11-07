@@ -1,0 +1,72 @@
+LEAF – proprietäre Lizenz für den zentralen Berechnungsdienst
+Fassung vom 7. November 2026
+
+Copyright (c) 2026 die jeweiligen LEAF-Rechteinhaber.
+Alle nicht ausdrücklich eingeräumten Rechte bleiben vorbehalten.
+
+1. Geltungsbereich und bestehende Rechte
+
+Diese Lizenz gilt für neue eigene Beiträge und Änderungen des zentralen
+Berechnungsdienstes ab dieser Fassung, soweit die jeweiligen Rechteinhaber
+darüber verfügen können und keine bereits eingeräumten Rechte entgegenstehen.
+Sie umfasst insbesondere neue interne Berechnungsvorbereitung und Modelle
+sowie gegebenenfalls eigene RL-/LLM-Implementierungen, Modellgewichte,
+Trainingscode, interne Prompts und Konfigurationen dieses Dienstes.
+
+Zuvor wirksam eingeräumte MIT- oder andere Nutzungsrechte bleiben bestehen.
+Der frühere MIT-Lizenzhinweis ist unter LICENSE-MIT-LEGACY erhalten und gilt
+weiterhin für die entsprechenden früheren Beiträge und Kopien. Diese Fassung
+entzieht solche Rechte nicht und lizenziert fremde Beiträge nicht um.
+Lizenz- und Urheberhinweise sind zu erhalten. Rechte Dritter, darunter
+Paket-, Modell-, Template- und mögliche Patentrechte, bleiben unberührt;
+siehe THIRD_PARTY_NOTICES.md und LICENSE-SCOPE.md.
+
+2. Kostenfreie Nutzung der bereitgestellten Anwendung
+
+Der Betreiber erlaubt die kostenfreie Nutzung der von ihm freigegebenen
+LEAF-Anwendung und ihrer autorisierten Schnittstellen für Forschung,
+private und kommerzielle Zwecke innerhalb der eingeräumten Zugangsrechte.
+Diese Erlaubnis umfasst das Einreichen eigener berechtigter Eingabedaten
+und die Nutzung der bereitgestellten Berechnungsergebnisse für diese Zwecke.
+An Ergebnissen begründet diese Lizenz keine zusätzlichen Beschränkungen;
+Rechte an Eingabedaten, Rechte Dritter und zwingendes Recht bleiben unberührt.
+
+3. Vorbehaltene Quellcode- und Modellrechte
+
+Die Erlaubnis zur Anwendungsnutzung gewährt keinen Anspruch auf Herausgabe
+von Quellcode, internen Berechnungswegen, Trainingsdaten, Konfigurationen
+oder Modellen. Sie gewährt insbesondere keine allgemeine Erlaubnis, die
+proprietären Bestandteile zu kopieren, zu ändern, zu veröffentlichen,
+weiterzugeben, unterzulizenzieren, zu verkaufen oder selbst zu betreiben.
+Dafür ist eine gesonderte ausdrückliche Erlaubnis der Rechteinhaber nötig.
+Zwingende gesetzliche Befugnisse und die unter Ziffer 1 erhaltenen Rechte
+bleiben davon unberührt. Die MIT-Lizenzen anderer LEAF-Repositories erweitern
+die Rechte an diesem Dienst nicht.
+
+4. Keine zugesicherte Beschaffenheit oder Verfügbarkeit
+
+Die Anwendung und ihre Ergebnisse werden im vorhandenen Zustand zur
+Verfügung gestellt. Soweit gesetzlich zulässig, werden keine Gewährleistung
+oder Garantie für Fehlerfreiheit, Genauigkeit, Eignung für einen bestimmten
+Zweck, Verfügbarkeit oder unterbrechungsfreien Betrieb übernommen.
+Es besteht daraus keine Zusage von Support oder zukünftigen Updates.
+Berechnungsergebnisse sind vor ihrem praktischen Einsatz eigenständig auf
+Plausibilität und Eignung zu prüfen. Zwingende Mängelrechte bleiben unberührt.
+
+5. Haftung
+
+Unbeschränkt bleibt die Haftung für Vorsatz und grobe Fahrlässigkeit sowie
+für Schäden aus der Verletzung von Leben, Körper oder Gesundheit. Gleiches
+gilt für zwingende gesetzliche Haftung, insbesondere nach dem
+Produkthaftungsgesetz, und für übernommene Garantien.
+
+Bei einfacher Fahrlässigkeit wegen Verletzung einer wesentlichen
+Vertragspflicht ist die Haftung auf den vertragstypischen, vorhersehbaren
+Schaden begrenzt, soweit gesetzlich zulässig. Wesentliche Vertragspflichten
+sind solche, deren Erfüllung die ordnungsgemäße Durchführung eines Vertrags
+erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig
+vertrauen darf. Im Übrigen ist die Haftung bei einfacher Fahrlässigkeit
+ausgeschlossen, soweit gesetzlich zulässig.
+
+Diese Bestimmungen begründen keine vollständige Haftungsfreiheit und
+beschränken keine gesetzlich unabdingbaren Rechte.
