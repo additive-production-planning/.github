@@ -6,6 +6,28 @@ Der Grundgedanke: Ein Bauauftrag hängt nicht nur von einer freien Maschine ab. 
 
 Das Projekt wird kostenfrei für Forschung, private und kommerzielle Zwecke angeboten. Es gibt keine kostenpflichtigen Tarife oder bezahlten Funktionsfreischaltungen.
 
+## LEAF in Bildern
+
+**Unternehmen und Standorte verbinden**
+
+<img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-standorte.png" alt="LEAF-Konzept: Unternehmen mit mehreren Produktionsstandorten, Benutzern, Maschinen, Materialien, Bauteilen und Prozessen" width="760">
+
+Benutzer, Maschinen, Materialien und Bauteile werden ihren Produktionsstandorten zugeordnet. So entsteht eine gemeinsame Struktur für Verwaltung und Planung.
+
+**Von der Terminplanung zur Kostenabschätzung**
+
+<img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-planungsfunktionen.png" alt="Fünfstufige Pyramide mit Symbolen für Terminplanung, Bauteile, Material, Produktion und Kosten" width="420">
+
+Terminplanung, Bauteile, Material, Produktion und Kosten greifen ineinander. LEAF führt diese Informationen zusammen, um Bauaufträge zu planen und Herstellungskosten abzuschätzen.
+
+**Im Browser arbeiten**
+
+<img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-browserzugriff.png" alt="Cloud als Puzzle aus verbundenen Bausteinen für das Zusammenspiel der LEAF-Dienste" width="420">
+
+Die Oberfläche läuft im Browser; Datenbank und Berechnungsdienst arbeiten im Hintergrund. Perspektivisch kann die Datenbank auch beim Kunden bleiben, während Berechnungen über eine Online-Schnittstelle erfolgen.
+
+Abbildungen aus der LEAF-Startseite; [Bildhinweise](https://github.com/additive-production-planning/.github/blob/main/profile/assets/README.md).
+
 ## Was lässt sich mit LEAF planen?
 
 - **Maschinen und Kapazitäten:** Anlagen je Produktionsstandort verwalten und verfügbare, geplante und genutzte Maschinenzeiten gegenüberstellen.
