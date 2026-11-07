@@ -16,15 +16,41 @@ Benutzer, Maschinen, Materialien und Bauteile werden ihren Produktionsstandorten
 
 **Von der Terminplanung zur Kostenabschätzung**
 
-<img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-planungsfunktionen.png" alt="Fünfstufige Pyramide mit Symbolen für Terminplanung, Bauteile, Material, Produktion und Kosten" width="420">
-
-Terminplanung, Bauteile, Material, Produktion und Kosten greifen ineinander. LEAF führt diese Informationen zusammen, um Bauaufträge zu planen und Herstellungskosten abzuschätzen.
-
-**Im Browser arbeiten**
-
-<img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-browserzugriff.png" alt="Cloud als Puzzle aus verbundenen Bausteinen für das Zusammenspiel der LEAF-Dienste" width="420">
-
-Die Oberfläche läuft im Browser; Datenbank und Berechnungsdienst arbeiten im Hintergrund. Perspektivisch kann die Datenbank auch beim Kunden bleiben, während Berechnungen über eine Online-Schnittstelle erfolgen.
+<table>
+  <tr>
+    <td rowspan="5" width="42%" valign="middle">
+      <img src="https://raw.githubusercontent.com/additive-production-planning/.github/main/profile/assets/leaf-planungsfunktionen.png" alt="LEAF-Planungspyramide: Part Cost Estimation, Machine Capacity Planning, Material Demand Forecast, Annual Part Volume und Process Scheduling" width="420">
+    </td>
+    <td>
+      <strong>PART COST ESTIMATION</strong><br>
+      An integrated cost tool enables you to think about your production starting with cost estimation, including the impact of process parameters.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>MACHINE CAPACITY PLANNING</strong><br>
+      By assigning components, processes, and materials to your machine, you can immediately see the annual machine capacity, both planned and used.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>MATERIAL DEMAND FORECAST</strong><br>
+      Specifying your annual part production volume allows you to plan your annual material demand.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>ANNUAL PART VOLUME</strong><br>
+      Our digital additive production planning gives you a good estimation of your annual part volume.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>PROCESS SCHEDULING</strong><br>
+      Setting process parameters and assigning part and material to the machine, you schedule your additive production
+    </td>
+  </tr>
+</table>
 
 Abbildungen aus der LEAF-Startseite; [Bildhinweise](https://github.com/additive-production-planning/.github/blob/main/profile/assets/README.md).
 

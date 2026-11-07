@@ -6,6 +6,5 @@ Die folgenden bestehenden Grafiken wurden unver채ndert aus der LEAF-Startseite �
 | --- | --- | --- |
 | `leaf-standorte.png` | `conceptde.png` | Konzept / Unternehmen und Standorte |
 | `leaf-planungsfunktionen.png` | `picture11.png` | Produkte / Planungsfunktionen |
-| `leaf-browserzugriff.png` | `p (7).png` | Vorteile / Arbeiten im Browser |
 
 Die Grafiken dienen der Produktvorstellung. Sie zeigen keine produktive Kundeninstallation. Bestehende Urheberrechte und Lizenzbedingungen der Grafiken und verwendeten Gestaltungselemente bleiben unber체hrt; durch ihre Aufnahme in die README wird keine zus채tzliche MIT-Lizenz f체r diese Medien einger채umt. Die MIT-Lizenz der Dokumentation lizenziert fremde Medien nicht um.
